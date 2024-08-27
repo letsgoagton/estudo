@@ -1,0 +1,7 @@
+Batata	54
+Cenoura	66
+Couve	78
+Arroz	15
+Feijão	22
+Tomate	64
+Milho	12
